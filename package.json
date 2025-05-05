@@ -1,0 +1,17 @@
+{
+  "name": "prssa-chapter-site",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^4.0.0",
+    "@astrojs/vercel": "^4.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "license": "MIT"
+}
