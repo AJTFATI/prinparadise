@@ -9,9 +9,6 @@
   },
   "dependencies": {
     "astro": "^4.0.0",
-    "@astrojs/vercel": "^4.0.0"
-  },
-  "devDependencies": {},
-  "keywords": [],
-  "license": "MIT"
+    "@astrojs/vercel": "^5.0.0"
+  }
 }
